@@ -164,15 +164,15 @@ void loop() {
 
 ---
 ### 🖼️ Images
-ERROR
+#### ERROR
 ![WhatsApp Image 2025-09-26 at 19 08 45_31b3daf3](https://github.com/user-attachments/assets/287be16b-db9f-4837-8102-ca8b13b9010d)
 
-TOO CLOSE
+#### TOO CLOSE
 ![WhatsApp Image 2025-09-26 at 19 08 46_69ce55fd](https://github.com/user-attachments/assets/52123f3a-6ced-46cd-9cad-a18577276be4)
 
-CLOSE
+#### CLOSE
 ![WhatsApp Image 2025-09-26 at 19 08 45_8b0975aa](https://github.com/user-attachments/assets/49288e2a-8dfb-4b77-a001-d09b2a339f32)
 
-SAFE
+#### SAFE
 ![WhatsApp Image 2025-09-26 at 19 08 46_054017c8](https://github.com/user-attachments/assets/df59a02f-eb74-4823-bc41-7104c88438a7)
 
